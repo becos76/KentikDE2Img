@@ -47,3 +47,9 @@ This is the sample payload returning the encoded image:
 ```json
 {"dataUri":"data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBzdGFuZGFsb25lPSJubyI/Pg0K ... "}
 ```
+
+## Screenshots
+<img width="2189" height="1057" alt="image" src="https://github.com/user-attachments/assets/d27b14e1-2002-498f-857e-d21246013c48" />
+<img width="2448" height="1057" alt="image" src="https://github.com/user-attachments/assets/71f3c9f2-c38b-40d9-a63c-5f5b24f1c3c3" />
+
+
