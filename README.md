@@ -6,7 +6,7 @@ This json payload can be pasted into this app in order to get the respective cha
 
 The app is containerized in a docker file, and once run it is server by default on port 8080.
 
-Refer to [gemini's init file](#GEMINI.md) for more details and how to run.
+Refer to [gemini's init file](./GEMINI.md) for more details and how to run.
 
 ## Kentik TopXChart API endpoint
 
